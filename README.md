@@ -37,7 +37,7 @@ Hi! I'm **Sathiya Priyan**, a passionate **UI Developer** with hands-on experien
 - Built with React and Material-UI.  
 - Highlights: Interactive forms, responsive design, accessibility considerations.
 
-> More projects can be found in my portfolio: [Portfolio Link](https://sathiyapriyan-portfolio-frontend.netlify.app)
+> More projects can be found in my portfolio: <a href="https://sathiyapriyan-portfolio-frontend.netlify.app">Mine Portfolio</a>
 
 ---
 
@@ -45,7 +45,6 @@ Hi! I'm **Sathiya Priyan**, a passionate **UI Developer** with hands-on experien
 
 - **Email:** sathicse5@gmail.com 
 - **LinkedIn:** [<a href="https://www.linkedin.com/in/sathiya-priyan-da/">Sathiya priyan</a>]  
-- **Portfolio:** [Portfolio Link](https://sathiyapriyan-portfolio-frontend.netlify.app)
 
 ---
 
